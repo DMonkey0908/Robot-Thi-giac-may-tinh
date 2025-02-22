@@ -1,0 +1,6 @@
+path: 'E:/Documents/Python/Nhom3_2/dataset'
+train: train/
+val: val/
+
+nc: 4
+names: ['DiThang','Trai','Phai','STOP']

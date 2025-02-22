@@ -1,0 +1,26 @@
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 26/26 [00:07<00:00,  3.36it/s]
+                   all        517        864      0.998      0.997      0.995      0.898
+               DiThang        517        611          1      0.989      0.995      0.831
+                  Trai        517         85      0.999          1      0.995      0.928
+                  Phai        517         97      0.996          1      0.995      0.929
+                  STOP        517         71      0.996          1      0.995      0.903
+Speed: 0.2ms preprocess, 10.1ms inference, 0.0ms loss, 1.0ms postprocess per image
+
+
+train4
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 26/26 [00:07<00:00,  3.36it/s]
+                   all        517        864      0.998      0.997      0.995      0.943
+               DiThang        517        611          1      0.989      0.995      0.899
+                  Trai        517         85      0.999          1      0.995      0.982
+                  Phai        517         97      0.996          1      0.995      0.978
+                  STOP        517         71      0.996          1      0.995      0.943
+Speed: 0.2ms preprocess, 10.1ms inference, 0.0ms loss, 1.0ms postprocess per image
+
+
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 26/26 [00:07<00:00,  3.52it/s]
+                   all        517        864      0.997      0.999      0.995       0.94
+               DiThang        517        611      0.998      0.998      0.995      0.887
+                  Trai        517         85      0.996          1      0.995       0.96
+                  Phai        517         97      0.996          1      0.995       0.97
+                  STOP        517         71      0.995          1      0.995      0.944
+Speed: 0.2ms preprocess, 9.7ms inference, 0.0ms loss, 0.9ms postprocess per image
